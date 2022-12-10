@@ -1,0 +1,12 @@
+=begin
+
+Your friends just showed up! 
+Given the following array of names, use a for loop to greet each friend individually.
+
+=end
+
+friends = ['Sarah', 'John', 'Hannah', 'Dave']
+
+for friend in friends do
+  p "Hello #{friend}!"
+end
